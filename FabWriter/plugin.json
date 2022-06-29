@@ -1,0 +1,8 @@
+{
+    "name": "FabWeaver code Writer",
+    "author": "Young",
+    "version": "1.0.0",
+    "description": "Modify gcode for FabWeaver",
+    "supported_sdk_versions": ["7.0.0", "8.0.0"],
+    "i18n-catalog": "cura"
+}
